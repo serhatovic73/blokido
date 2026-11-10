@@ -1,0 +1,1260 @@
+{
+ "LANGS": [
+  [
+   "tr",
+   "Türkçe",
+   "tr-TR"
+  ],
+  [
+   "ku",
+   "Kurdî (Kurmancî)",
+   "tr-TR"
+  ],
+  [
+   "en",
+   "English",
+   "en-US"
+  ],
+  [
+   "de",
+   "Deutsch",
+   "de-DE"
+  ],
+  [
+   "zh",
+   "中文（简体）",
+   "zh-CN"
+  ],
+  [
+   "hi",
+   "हिन्दी",
+   "hi-IN"
+  ],
+  [
+   "ta",
+   "தமிழ்",
+   "ta-IN"
+  ],
+  [
+   "es",
+   "Español",
+   "es-ES"
+  ],
+  [
+   "ar",
+   "العربية",
+   "ar"
+  ],
+  [
+   "fa",
+   "فارسی",
+   "fa-IR"
+  ],
+  [
+   "fr",
+   "Français",
+   "fr-FR"
+  ],
+  [
+   "it",
+   "Italiano",
+   "it-IT"
+  ],
+  [
+   "bn",
+   "বাংলা",
+   "bn-BD"
+  ],
+  [
+   "pt",
+   "Português (Brasil)",
+   "pt-BR"
+  ],
+  [
+   "id",
+   "Bahasa Indonesia",
+   "id-ID"
+  ],
+  [
+   "ru",
+   "Русский",
+   "ru-RU"
+  ]
+ ],
+ "COPY": {
+  "tr": {
+   "title": "Blokido – Blok Bulmaca Oyunu | Yerleştir, Patlat, Kazan",
+   "desc": "Blokido ücretsiz blok bulmaca oyunu: blokları yerleştir, satırları patlat, kombo yap. 38 blok stili, günlük bulmaca, dünya sıralaması ve 16 dil.",
+   "sub": "Blok bulmaca, kombo ve patlama",
+   "short": "Blokları yerleştir, satırları patlat! Günlük bulmaca, 38 stil, dünya sıralaması.",
+   "hero": "Blokları tahtaya yerleştir, dolu satır ve sütunları patlat, kombolarla rekor kır. Rahatlatıcı ama bir o kadar da bağımlılık yapan bir blok bulmaca.",
+   "soon": "Çok yakında",
+   "soonTitle": "Çok yakında mağazalarda",
+   "why": "Neden Blokido?",
+   "faqTitle": "Sık sorulan sorular",
+   "f": [
+    [
+     "Kolay öğren, bırakamazsın",
+     "Blokları sürükle, dolu satır ve sütunları patlat. Art arda temizledikçe kombo çarpanın büyür."
+    ],
+    [
+     "Pulse Blast ile patlat",
+     "Çizgi temizledikçe enerji dolar. Dolunca tahtadan bir alanı tek hamlede yok edersin."
+    ],
+    [
+     "38 blok stili",
+     "Şekerden galaksiye, ejderhadan robota: resimli blok stilleri ve renk temalarıyla oyunu kendine göre süsle."
+    ],
+    [
+     "Her gün yeni bulmaca",
+     "Günlük bulmacada herkes aynı tahtada oynar. Zamana karşı modu ve 6×6'dan 20×20'ye 8 tahta boyutu seni bekliyor."
+    ],
+    [
+     "Dünya sıralaması",
+     "Takma adını seç ve rekorlarınla dünyanın dört bir yanındaki oyuncularla yarış. Hesap açmana gerek yok."
+    ],
+    [
+     "Başarımlar ve ödüller",
+     "Görevleri tamamla, rozetleri topla, her gün giriş yaparak kristal kazan ve yeni stillerin kilidini aç."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido ücretsiz mi?",
+     "Evet, Blokido tamamen ücretsizdir. İstersen ödüllü reklam izleyerek ekstra kristal kazanabilirsin."
+    ],
+    [
+     "İnternet olmadan oynanır mı?",
+     "Evet. Oyunun tamamı çevrimdışı çalışır, sadece dünya sıralaması için internet gerekir."
+    ],
+    [
+     "Hangi dilleri destekliyor?",
+     "Blokido 16 dilde oynanabilir: {langs}."
+    ]
+   ]
+  },
+  "ku": {
+   "title": "Blokido – Lîstika Puzzle ya Blokan | Bi cih bike, biteqîne, bi ser keve",
+   "desc": "Blokido lîstikeke puzzle ya blokan a belaş e: blokan bi cih bike, rêzan biteqîne, kombo çêke. 38 şêwazên blokan, puzzleya rojane, rêzbendiya cîhanê û 16 ziman.",
+   "sub": "Puzzle ya blokan û teqînê",
+   "short": "Blokan bi cih bike û rêzan biteqîne! Puzzleya rojane, 38 şêwaz, rêzbendî.",
+   "hero": "Blokan li ser textê bi cih bike, rêz û stûnên tije biteqîne û bi komboyan rekoran bişkîne. Puzzleyeke aram lê bi qasî wê jî girêdayî.",
+   "soon": "Di demeke nêzîk de",
+   "soonTitle": "Di demeke nêzîk de li firoşgehan",
+   "why": "Çima Blokido?",
+   "faqTitle": "Pirsên pir tên pirsîn",
+   "f": [
+    [
+     "Hêsan fêr bibe, nikarî berdî",
+     "Blokan bikişîne, rêz û stûnên tije biteqîne. Her ku li pey hev paqij dikî, kombo mezin dibe."
+    ],
+    [
+     "Bi Pulse Blast biteqîne",
+     "Her ku rêzan paqij dikî enerjî tije dibe. Dema tije bû, deverekê bi carekê ji holê radikî."
+    ],
+    [
+     "38 şêwazên blokan",
+     "Ji şekir heta galaksiyê, ji ejderha heta robotê: lîstikê bi şêwaz û temayan li gorî xwe bixemilîne."
+    ],
+    [
+     "Her roj puzzleyeke nû",
+     "Di puzzleya rojane de her kes li ser heman textê dilîze. Moda li dijî demê û 8 mezinahiyên textê ji 6×6 heta 20×20."
+    ],
+    [
+     "Rêzbendiya cîhanê",
+     "Nasnavekî hilbijêre û bi rekorên xwe re li dijî lîstikvanên cîhanê pêşbaziyê bike. Hesab ne hewce ye."
+    ],
+    [
+     "Serkeftin û xelat",
+     "Erkan temam bike, nîşanan berhev bike, her roj kristalan qezenc bike û şêwazên nû veke."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido belaş e?",
+     "Erê, Blokido bi tevahî belaş e. Heke bixwazî bi temaşekirina reklamên xelatdar kristalên zêde qezenc dikî."
+    ],
+    [
+     "Bê înternet tê lîstin?",
+     "Erê. Hemû lîstik bê înternet dixebite, tenê ji bo rêzbendiya cîhanê înternet hewce ye."
+    ],
+    [
+     "Kîjan ziman hene?",
+     "Blokido bi 16 zimanan tê lîstin: {langs}."
+    ]
+   ]
+  },
+  "en": {
+   "title": "Blokido – Block Puzzle Game | Place It. Pop It. Win It!",
+   "desc": "Blokido is a free block puzzle game: place blocks, pop lines and chain combos. 38 block styles, a daily puzzle, a world leaderboard and 16 languages.",
+   "sub": "Block puzzle with big combos",
+   "short": "Place blocks, pop lines, chain combos! Daily puzzle, 38 styles, world rankings.",
+   "hero": "Drop blocks on the board, pop full rows and columns, and chain combos to beat your record. Relaxing, colorful and seriously hard to put down.",
+   "soon": "Coming soon",
+   "soonTitle": "Coming soon to the stores",
+   "why": "Why Blokido?",
+   "faqTitle": "Frequently asked questions",
+   "f": [
+    [
+     "Easy to learn, hard to stop",
+     "Drag blocks onto the board and pop full rows and columns. Clear lines back to back and your combo multiplier grows."
+    ],
+    [
+     "Blast it with Pulse Blast",
+     "Every cleared line charges your energy. When it's full, wipe out a whole area of the board in one move."
+    ],
+    [
+     "38 block styles",
+     "From candy to galaxies, dragons to robots: dress up the game with illustrated block styles and color themes."
+    ],
+    [
+     "A new puzzle every day",
+     "In the daily puzzle everyone plays the same board. Plus Time Attack and 8 board sizes from 6×6 to 20×20."
+    ],
+    [
+     "World leaderboard",
+     "Pick a nickname and race players around the world with your best scores. No account needed."
+    ],
+    [
+     "Achievements & rewards",
+     "Complete missions, collect badges, earn crystals every day and unlock new styles."
+    ]
+   ],
+   "faq": [
+    [
+     "Is Blokido free?",
+     "Yes, Blokido is completely free. If you like, you can watch optional rewarded ads for extra crystals."
+    ],
+    [
+     "Can I play offline?",
+     "Yes. The whole game works offline; only the world leaderboard needs an internet connection."
+    ],
+    [
+     "Which languages are supported?",
+     "Blokido is available in 16 languages: {langs}."
+    ]
+   ]
+  },
+  "de": {
+   "title": "Blokido – Block-Puzzle-Spiel | Setzen, sprengen, siegen!",
+   "desc": "Blokido ist ein kostenloses Block-Puzzle: Blöcke setzen, Reihen sprengen, Combos ketten. 38 Blockstile, tägliches Rätsel, weltweite Rangliste und 16 Sprachen.",
+   "sub": "Block-Puzzle mit großen Combos",
+   "short": "Blöcke setzen, Reihen sprengen, Combos ketten! Tagesrätsel, 38 Stile, Rangliste.",
+   "hero": "Setz Blöcke aufs Brett, spreng volle Reihen und Spalten und knack mit Combos deinen Rekord. Entspannend, bunt und verdammt schwer aus der Hand zu legen.",
+   "soon": "Demnächst",
+   "soonTitle": "Bald in den Stores",
+   "why": "Warum Blokido?",
+   "faqTitle": "Häufige Fragen",
+   "f": [
+    [
+     "Schnell gelernt, schwer zu stoppen",
+     "Zieh Blöcke aufs Brett und spreng volle Reihen und Spalten. Räumst du nacheinander ab, wächst dein Combo-Multiplikator."
+    ],
+    [
+     "Spreng mit Pulse Blast",
+     "Jede Linie lädt deine Energie auf. Ist sie voll, räumst du einen ganzen Bereich mit einem Zug ab."
+    ],
+    [
+     "38 Blockstile",
+     "Von Süßigkeiten bis Galaxien, von Drachen bis Robotern: Gestalte das Spiel mit illustrierten Blockstilen und Farbthemen."
+    ],
+    [
+     "Jeden Tag ein neues Rätsel",
+     "Beim Tagesrätsel spielen alle dasselbe Brett. Dazu ein Zeitmodus und 8 Brettgrößen von 6×6 bis 20×20."
+    ],
+    [
+     "Weltweite Rangliste",
+     "Wähl einen Spitznamen und miss dich mit Spielern auf der ganzen Welt. Kein Konto nötig."
+    ],
+    [
+     "Erfolge & Belohnungen",
+     "Erfülle Aufgaben, sammle Abzeichen, verdiene täglich Kristalle und schalte neue Stile frei."
+    ]
+   ],
+   "faq": [
+    [
+     "Ist Blokido kostenlos?",
+     "Ja, Blokido ist komplett kostenlos. Wenn du willst, bekommst du über freiwillige Werbevideos zusätzliche Kristalle."
+    ],
+    [
+     "Kann ich offline spielen?",
+     "Ja. Das ganze Spiel läuft offline, nur die weltweite Rangliste braucht Internet."
+    ],
+    [
+     "Welche Sprachen gibt es?",
+     "Blokido gibt es in 16 Sprachen: {langs}."
+    ]
+   ]
+  },
+  "zh": {
+   "title": "Blokido – 方块消除益智游戏 | 摆一摆，消一消，赢到底！",
+   "desc": "Blokido 是一款免费方块益智游戏：摆放方块、消除整行整列、打出连击。38 种方块风格、每日谜题、全球排行榜，支持 16 种语言。",
+   "sub": "爽快连击的方块消除",
+   "short": "摆方块、消整行、打连击！每日谜题、38 种风格、全球排行榜。",
+   "hero": "把方块摆上棋盘，消除整行整列，用连击刷新纪录。轻松解压，色彩缤纷，一玩就停不下来。",
+   "soon": "即将上线",
+   "soonTitle": "即将登陆应用商店",
+   "why": "为什么选择 Blokido？",
+   "faqTitle": "常见问题",
+   "f": [
+    [
+     "上手简单，停不下来",
+     "把方块拖到棋盘上，消除整行整列。连续消除，连击倍数越来越高。"
+    ],
+    [
+     "脉冲爆破，一键清场",
+     "每消一行都会积攒能量，满能量时可一次炸掉棋盘上的一整片区域。"
+    ],
+    [
+     "38 种方块风格",
+     "从糖果到银河，从巨龙到机器人：用精美方块风格和配色主题打扮你的游戏。"
+    ],
+    [
+     "每天一道新谜题",
+     "每日谜题人人同一棋盘。还有限时模式和从 6×6 到 20×20 的 8 种棋盘。"
+    ],
+    [
+     "全球排行榜",
+     "起个昵称，用最高分和全世界玩家一较高下。无需注册账号。"
+    ],
+    [
+     "成就与奖励",
+     "完成任务、收集徽章、每天领取水晶并解锁新风格。"
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido 免费吗？",
+     "是的，Blokido 完全免费。你也可以选择观看奖励广告来获得额外水晶。"
+    ],
+    [
+     "可以离线玩吗？",
+     "可以。整个游戏都能离线运行，只有全球排行榜需要联网。"
+    ],
+    [
+     "支持哪些语言？",
+     "Blokido 支持 16 种语言：{langs}。"
+    ]
+   ]
+  },
+  "hi": {
+   "title": "Blokido – ब्लॉक पज़ल गेम | रखो, उड़ाओ, जीतो!",
+   "desc": "Blokido एक मुफ़्त ब्लॉक पज़ल गेम है: ब्लॉक रखो, लाइनें उड़ाओ, कॉम्बो बनाओ। 38 ब्लॉक स्टाइल, रोज़ाना पज़ल, विश्व लीडरबोर्ड और 16 भाषाएँ।",
+   "sub": "कॉम्बो वाला ब्लॉक पज़ल",
+   "short": "ब्लॉक रखो, लाइनें उड़ाओ, कॉम्बो बनाओ! रोज़ाना पज़ल, 38 स्टाइल, विश्व लीडरबोर्ड।",
+   "hero": "बोर्ड पर ब्लॉक रखो, भरी हुई पंक्तियाँ और कॉलम उड़ाओ और कॉम्बो से अपना रिकॉर्ड तोड़ो। सुकून भरा, रंगीन और छोड़ना मुश्किल।",
+   "soon": "जल्द आ रहा है",
+   "soonTitle": "जल्द ही स्टोर पर",
+   "why": "Blokido क्यों?",
+   "faqTitle": "अक्सर पूछे जाने वाले सवाल",
+   "f": [
+    [
+     "सीखना आसान, रुकना मुश्किल",
+     "ब्लॉक को बोर्ड पर खींचो और भरी पंक्तियाँ व कॉलम उड़ाओ। लगातार साफ़ करने पर कॉम्बो बढ़ता जाता है।"
+    ],
+    [
+     "पल्स ब्लास्ट से उड़ाओ",
+     "हर साफ़ लाइन से एनर्जी भरती है। पूरी भरने पर एक ही चाल में बोर्ड का पूरा हिस्सा साफ़ करो।"
+    ],
+    [
+     "38 ब्लॉक स्टाइल",
+     "कैंडी से आकाशगंगा तक, ड्रैगन से रोबोट तक: चित्रित ब्लॉक स्टाइल और कलर थीम से गेम को सजाओ।"
+    ],
+    [
+     "हर दिन नया पज़ल",
+     "रोज़ाना पज़ल में सब एक ही बोर्ड पर खेलते हैं। साथ में टाइम अटैक और 6×6 से 20×20 तक 8 बोर्ड साइज़।"
+    ],
+    [
+     "विश्व लीडरबोर्ड",
+     "उपनाम चुनो और अपने बेस्ट स्कोर से दुनिया भर के खिलाड़ियों से मुकाबला करो। अकाउंट की ज़रूरत नहीं।"
+    ],
+    [
+     "उपलब्धियाँ और इनाम",
+     "मिशन पूरे करो, बैज जमा करो, रोज़ क्रिस्टल कमाओ और नए स्टाइल अनलॉक करो।"
+    ]
+   ],
+   "faq": [
+    [
+     "क्या Blokido मुफ़्त है?",
+     "हाँ, Blokido पूरी तरह मुफ़्त है। चाहो तो इनाम वाले विज्ञापन देखकर अतिरिक्त क्रिस्टल कमा सकते हो।"
+    ],
+    [
+     "क्या ऑफ़लाइन खेल सकते हैं?",
+     "हाँ। पूरा गेम ऑफ़लाइन चलता है, सिर्फ़ विश्व लीडरबोर्ड के लिए इंटरनेट चाहिए।"
+    ],
+    [
+     "कौन-सी भाषाएँ हैं?",
+     "Blokido 16 भाषाओं में उपलब्ध है: {langs}।"
+    ]
+   ]
+  },
+  "ta": {
+   "title": "Blokido – பிளாக் புதிர் விளையாட்டு | வை, வெடி, வெல்!",
+   "desc": "Blokido ஒரு இலவச பிளாக் புதிர் விளையாட்டு: பிளாக்குகளை வை, வரிகளை வெடிக்கச் செய், காம்போ செய். 38 பிளாக் ஸ்டைல்கள், தினசரி புதிர், உலகத் தரவரிசை, 16 மொழிகள்.",
+   "sub": "காம்போ நிறைந்த பிளாக் புதிர்",
+   "short": "பிளாக்குகளை வை, வரிகளை வெடி, காம்போ செய்! தினசரி புதிர், 38 ஸ்டைல், தரவரிசை.",
+   "hero": "பலகையில் பிளாக்குகளை வை, நிரம்பிய வரிசைகளையும் நெடுவரிசைகளையும் வெடிக்கச் செய், காம்போக்களால் சாதனை முறியடி. அமைதியானது, வண்ணமயமானது, நிறுத்தவே முடியாது.",
+   "soon": "விரைவில்",
+   "soonTitle": "விரைவில் ஸ்டோர்களில்",
+   "why": "ஏன் Blokido?",
+   "faqTitle": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+   "f": [
+    [
+     "கற்பது எளிது, நிறுத்துவது கடினம்",
+     "பிளாக்குகளைப் பலகைக்கு இழு, நிரம்பிய வரிசைகளை வெடி. தொடர்ந்து அழிக்க அழிக்க காம்போ பெருகும்."
+    ],
+    [
+     "பல்ஸ் பிளாஸ்ட் வெடிப்பு",
+     "ஒவ்வொரு வரியும் ஆற்றலை நிரப்பும். நிரம்பியதும் ஒரே நகர்வில் ஒரு பகுதியையே அழி."
+    ],
+    [
+     "38 பிளாக் ஸ்டைல்கள்",
+     "மிட்டாய் முதல் விண்மீன் வரை, டிராகன் முதல் ரோபோ வரை: ஓவிய பிளாக் ஸ்டைல்களால் விளையாட்டை அலங்கரி."
+    ],
+    [
+     "தினமும் புதிய புதிர்",
+     "தினசரி புதிரில் எல்லோரும் ஒரே பலகையில் ஆடுவார்கள். நேர வரம்பு முறையும் 6×6 முதல் 20×20 வரை 8 பலகைகளும் உண்டு."
+    ],
+    [
+     "உலகத் தரவரிசை",
+     "புனைப்பெயரைத் தேர்ந்தெடுத்து உலக வீரர்களுடன் போட்டியிடு. கணக்கு தேவையில்லை."
+    ],
+    [
+     "சாதனைகளும் பரிசுகளும்",
+     "பணிகளை முடி, பதக்கங்களைச் சேர், தினமும் படிகங்களைப் பெற்று புதிய ஸ்டைல்களைத் திற."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido இலவசமா?",
+     "ஆம், Blokido முற்றிலும் இலவசம். விரும்பினால் பரிசு விளம்பரங்களைப் பார்த்து கூடுதல் படிகங்கள் பெறலாம்."
+    ],
+    [
+     "இணையம் இல்லாமல் விளையாடலாமா?",
+     "ஆம். முழு விளையாட்டும் ஆஃப்லைனில் இயங்கும்; உலகத் தரவரிசைக்கு மட்டும் இணையம் தேவை."
+    ],
+    [
+     "எந்த மொழிகள் உள்ளன?",
+     "Blokido 16 மொழிகளில் கிடைக்கிறது: {langs}."
+    ]
+   ]
+  },
+  "es": {
+   "title": "Blokido – Juego de puzle de bloques | ¡Coloca, explota y gana!",
+   "desc": "Blokido es un puzle de bloques gratis: coloca bloques, explota líneas y encadena combos. 38 estilos de bloques, puzle diario, clasificación mundial y 16 idiomas.",
+   "sub": "Puzle de bloques con combos",
+   "short": "¡Coloca bloques y explota líneas! Puzle diario, 38 estilos y ranking mundial.",
+   "hero": "Coloca bloques en el tablero, explota filas y columnas completas y encadena combos para batir tu récord. Relajante, colorido y difícil de soltar.",
+   "soon": "Próximamente",
+   "soonTitle": "Muy pronto en las tiendas",
+   "why": "¿Por qué Blokido?",
+   "faqTitle": "Preguntas frecuentes",
+   "f": [
+    [
+     "Fácil de aprender, difícil de parar",
+     "Arrastra bloques al tablero y explota filas y columnas completas. Limpia seguido y tu multiplicador de combo crece."
+    ],
+    [
+     "Explota con Pulse Blast",
+     "Cada línea carga tu energía. Cuando está llena, borras toda una zona del tablero de un solo golpe."
+    ],
+    [
+     "38 estilos de bloques",
+     "De golosinas a galaxias, de dragones a robots: decora el juego con estilos de bloques ilustrados y temas de color."
+    ],
+    [
+     "Un puzle nuevo cada día",
+     "En el puzle diario todos juegan el mismo tablero. Además, modo contrarreloj y 8 tamaños de 6×6 a 20×20."
+    ],
+    [
+     "Clasificación mundial",
+     "Elige un apodo y compite con jugadores de todo el mundo. No necesitas cuenta."
+    ],
+    [
+     "Logros y recompensas",
+     "Completa misiones, colecciona insignias, gana cristales cada día y desbloquea estilos nuevos."
+    ]
+   ],
+   "faq": [
+    [
+     "¿Blokido es gratis?",
+     "Sí, Blokido es totalmente gratis. Si quieres, puedes ver anuncios con recompensa para conseguir cristales extra."
+    ],
+    [
+     "¿Se puede jugar sin conexión?",
+     "Sí. Todo el juego funciona sin conexión; solo la clasificación mundial necesita internet."
+    ],
+    [
+     "¿En qué idiomas está?",
+     "Blokido está disponible en 16 idiomas: {langs}."
+    ]
+   ]
+  },
+  "ar": {
+   "title": "Blokido – لعبة ألغاز المكعبات | ضع، فجّر، واربح!",
+   "desc": "Blokido لعبة ألغاز مكعبات مجانية: ضع المكعبات، فجّر الصفوف، واصنع سلاسل الكومبو. 38 نمطًا للمكعبات، لغز يومي، لوحة صدارة عالمية و16 لغة.",
+   "sub": "ألغاز مكعبات وكومبو",
+   "short": "ضع المكعبات، فجّر الصفوف، اصنع الكومبو! لغز يومي، 38 نمطًا، صدارة عالمية.",
+   "hero": "ضع المكعبات على اللوحة، فجّر الصفوف والأعمدة الممتلئة، واكسر رقمك القياسي بسلاسل الكومبو. لعبة مريحة وملوّنة يصعب تركها.",
+   "soon": "قريبًا",
+   "soonTitle": "قريبًا في المتاجر",
+   "why": "لماذا Blokido؟",
+   "faqTitle": "الأسئلة الشائعة",
+   "f": [
+    [
+     "سهلة التعلّم، صعبة الترك",
+     "اسحب المكعبات إلى اللوحة وفجّر الصفوف والأعمدة الممتلئة. كلما نظّفت متتاليًا كبر مضاعف الكومبو."
+    ],
+    [
+     "فجّرها بـ Pulse Blast",
+     "كل خط تنظّفه يشحن طاقتك، وعندما تمتلئ تمسح منطقة كاملة من اللوحة بحركة واحدة."
+    ],
+    [
+     "38 نمطًا للمكعبات",
+     "من الحلوى إلى المجرات ومن التنانين إلى الروبوتات: زيّن اللعبة بأنماط مكعبات مرسومة وسمات ألوان."
+    ],
+    [
+     "لغز جديد كل يوم",
+     "في اللغز اليومي يلعب الجميع على اللوحة نفسها، إضافة إلى وضع ضد الوقت و8 أحجام للوحة من 6×6 إلى 20×20."
+    ],
+    [
+     "لوحة صدارة عالمية",
+     "اختر لقبًا ونافس لاعبين من حول العالم بأفضل نتائجك. لا حاجة إلى حساب."
+    ],
+    [
+     "إنجازات ومكافآت",
+     "أكمل المهام، اجمع الشارات، اربح البلورات يوميًا وافتح أنماطًا جديدة."
+    ]
+   ],
+   "faq": [
+    [
+     "هل Blokido مجانية؟",
+     "نعم، Blokido مجانية بالكامل. ويمكنك إن أردت مشاهدة إعلانات بمكافأة للحصول على بلورات إضافية."
+    ],
+    [
+     "هل يمكن اللعب دون إنترنت؟",
+     "نعم. تعمل اللعبة كاملة دون اتصال، ولوحة الصدارة العالمية فقط تحتاج إلى الإنترنت."
+    ],
+    [
+     "ما اللغات المتاحة؟",
+     "تتوفر Blokido بـ16 لغة: {langs}."
+    ]
+   ]
+  },
+  "fa": {
+   "title": "Blokido – بازی پازل بلوکی | بچین، بترکان، ببر!",
+   "desc": "Blokido یک بازی پازل بلوکی رایگان است: بلوک‌ها را بچین، ردیف‌ها را بترکان و کامبو بساز. ۳۸ سبک بلوک، پازل روزانه، رده‌بندی جهانی و ۱۶ زبان.",
+   "sub": "پازل بلوکی با کامبوهای بزرگ",
+   "short": "بلوک بچین، ردیف بترکان، کامبو بساز! پازل روزانه، ۳۸ سبک، رده‌بندی جهانی.",
+   "hero": "بلوک‌ها را روی صفحه بچین، ردیف‌ها و ستون‌های پر را بترکان و با کامبوها رکوردت را بشکن. آرامش‌بخش، رنگارنگ و رها کردنش سخت.",
+   "soon": "به‌زودی",
+   "soonTitle": "به‌زودی در فروشگاه‌ها",
+   "why": "چرا Blokido؟",
+   "faqTitle": "پرسش‌های پرتکرار",
+   "f": [
+    [
+     "یادگیری آسان، توقف سخت",
+     "بلوک‌ها را روی صفحه بکش و ردیف‌ها و ستون‌های پر را بترکان. هرچه پشت‌سرهم پاک کنی، ضریب کامبو بیشتر می‌شود."
+    ],
+    [
+     "با Pulse Blast منفجر کن",
+     "هر خطی که پاک می‌کنی انرژی‌ات را پر می‌کند. وقتی پر شد، یک ناحیه کامل را با یک حرکت پاک می‌کنی."
+    ],
+    [
+     "۳۸ سبک بلوک",
+     "از آبنبات تا کهکشان، از اژدها تا ربات: بازی را با سبک‌های بلوک تصویری و تم‌های رنگی به سلیقه خودت بیارا."
+    ],
+    [
+     "هر روز یک پازل تازه",
+     "در پازل روزانه همه روی یک صفحه بازی می‌کنند. حالت زمان‌دار و ۸ اندازه صفحه از ۶×۶ تا ۲۰×۲۰ هم هست."
+    ],
+    [
+     "رده‌بندی جهانی",
+     "یک نام مستعار انتخاب کن و با بهترین امتیازهایت با بازیکنان سراسر دنیا رقابت کن. حساب کاربری لازم نیست."
+    ],
+    [
+     "دستاوردها و جایزه‌ها",
+     "مأموریت‌ها را انجام بده، نشان جمع کن، هر روز کریستال بگیر و سبک‌های تازه باز کن."
+    ]
+   ],
+   "faq": [
+    [
+     "آیا Blokido رایگان است؟",
+     "بله، Blokido کاملاً رایگان است. اگر بخواهی می‌توانی با دیدن تبلیغ جایزه‌دار کریستال بیشتری بگیری."
+    ],
+    [
+     "بدون اینترنت هم می‌شود بازی کرد؟",
+     "بله. کل بازی آفلاین کار می‌کند و فقط رده‌بندی جهانی به اینترنت نیاز دارد."
+    ],
+    [
+     "از چه زبان‌هایی پشتیبانی می‌کند؟",
+     "Blokido به ۱۶ زبان در دسترس است: {langs}."
+    ]
+   ]
+  },
+  "fr": {
+   "title": "Blokido – Jeu de puzzle de blocs | Placez, explosez, gagnez !",
+   "desc": "Blokido est un puzzle de blocs gratuit : placez des blocs, faites exploser les lignes et enchaînez les combos. 38 styles, puzzle du jour, classement mondial et 16 langues.",
+   "sub": "Puzzle de blocs et combos",
+   "short": "Placez des blocs, explosez les lignes ! Puzzle du jour, 38 styles, classement.",
+   "hero": "Posez des blocs sur la grille, faites exploser les lignes et colonnes pleines et enchaînez les combos pour battre votre record. Relaxant, coloré et terriblement addictif.",
+   "soon": "Bientôt",
+   "soonTitle": "Bientôt sur les stores",
+   "why": "Pourquoi Blokido ?",
+   "faqTitle": "Questions fréquentes",
+   "f": [
+    [
+     "Facile à apprendre, dur à lâcher",
+     "Glissez les blocs sur la grille et faites exploser les lignes et colonnes pleines. Enchaînez et votre multiplicateur grimpe."
+    ],
+    [
+     "Explosez tout avec Pulse Blast",
+     "Chaque ligne recharge votre énergie. Une fois pleine, vous effacez toute une zone d'un seul coup."
+    ],
+    [
+     "38 styles de blocs",
+     "Des bonbons aux galaxies, des dragons aux robots : personnalisez le jeu avec des styles de blocs illustrés et des thèmes de couleur."
+    ],
+    [
+     "Un nouveau puzzle chaque jour",
+     "Dans le puzzle du jour, tout le monde joue la même grille. Plus un mode chrono et 8 tailles de 6×6 à 20×20."
+    ],
+    [
+     "Classement mondial",
+     "Choisissez un pseudo et affrontez des joueurs du monde entier. Aucun compte requis."
+    ],
+    [
+     "Succès et récompenses",
+     "Accomplissez des missions, collectionnez des badges, gagnez des cristaux chaque jour et débloquez de nouveaux styles."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido est-il gratuit ?",
+     "Oui, Blokido est entièrement gratuit. Si vous le souhaitez, des pubs récompensées offrent des cristaux en plus."
+    ],
+    [
+     "Peut-on jouer hors ligne ?",
+     "Oui. Tout le jeu fonctionne hors ligne ; seul le classement mondial a besoin d'internet."
+    ],
+    [
+     "Quelles langues sont disponibles ?",
+     "Blokido est disponible en 16 langues : {langs}."
+    ]
+   ]
+  },
+  "it": {
+   "title": "Blokido – Gioco di puzzle a blocchi | Piazza, fai esplodere, vinci!",
+   "desc": "Blokido è un puzzle a blocchi gratuito: piazza i blocchi, fai esplodere le linee e concatena combo. 38 stili di blocchi, puzzle giornaliero, classifica mondiale e 16 lingue.",
+   "sub": "Puzzle a blocchi con combo",
+   "short": "Piazza blocchi e fai esplodere linee! Puzzle giornaliero, 38 stili, classifica.",
+   "hero": "Piazza i blocchi sulla griglia, fai esplodere righe e colonne piene e concatena combo per battere il tuo record. Rilassante, coloratissimo e difficile da mollare.",
+   "soon": "In arrivo",
+   "soonTitle": "Presto negli store",
+   "why": "Perché Blokido?",
+   "faqTitle": "Domande frequenti",
+   "f": [
+    [
+     "Facile da imparare, difficile smettere",
+     "Trascina i blocchi sulla griglia e fai esplodere righe e colonne piene. Pulisci di seguito e il moltiplicatore combo cresce."
+    ],
+    [
+     "Fai saltare tutto con Pulse Blast",
+     "Ogni linea ricarica l'energia. Quando è piena, cancelli un'intera area della griglia in una mossa."
+    ],
+    [
+     "38 stili di blocchi",
+     "Dalle caramelle alle galassie, dai draghi ai robot: personalizza il gioco con stili di blocchi illustrati e temi di colore."
+    ],
+    [
+     "Un nuovo puzzle ogni giorno",
+     "Nel puzzle giornaliero tutti giocano la stessa griglia. In più modalità a tempo e 8 griglie da 6×6 a 20×20."
+    ],
+    [
+     "Classifica mondiale",
+     "Scegli un nickname e sfida giocatori di tutto il mondo. Nessun account richiesto."
+    ],
+    [
+     "Obiettivi e ricompense",
+     "Completa missioni, colleziona medaglie, guadagna cristalli ogni giorno e sblocca nuovi stili."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido è gratis?",
+     "Sì, Blokido è completamente gratuito. Se vuoi, puoi guardare pubblicità con ricompensa per ottenere cristalli extra."
+    ],
+    [
+     "Si può giocare offline?",
+     "Sì. Tutto il gioco funziona offline; solo la classifica mondiale richiede internet."
+    ],
+    [
+     "Quali lingue sono supportate?",
+     "Blokido è disponibile in 16 lingue: {langs}."
+    ]
+   ]
+  },
+  "bn": {
+   "title": "Blokido – ব্লক পাজল গেম | বসাও, ফাটাও, জেতো!",
+   "desc": "Blokido একটি ফ্রি ব্লক পাজল গেম: ব্লক বসাও, লাইন ফাটাও, কম্বো বানাও। ৩৮টি ব্লক স্টাইল, দৈনিক পাজল, বিশ্ব লিডারবোর্ড আর ১৬টি ভাষা।",
+   "sub": "কম্বো ভরা ব্লক পাজল",
+   "short": "ব্লক বসাও, লাইন ফাটাও, কম্বো বানাও! দৈনিক পাজল, ৩৮ স্টাইল, বিশ্ব লিডারবোর্ড।",
+   "hero": "বোর্ডে ব্লক বসাও, ভরা সারি আর কলাম ফাটাও, কম্বো দিয়ে নিজের রেকর্ড ভাঙো। আরামদায়ক, রঙিন আর ছাড়া কঠিন।",
+   "soon": "শীঘ্রই আসছে",
+   "soonTitle": "শীঘ্রই স্টোরে",
+   "why": "কেন Blokido?",
+   "faqTitle": "সাধারণ প্রশ্ন",
+   "f": [
+    [
+     "শেখা সহজ, থামা কঠিন",
+     "ব্লক টেনে বোর্ডে আনো, ভরা সারি আর কলাম ফাটাও। পরপর পরিষ্কার করলে কম্বো গুণক বাড়তে থাকে।"
+    ],
+    [
+     "পালস ব্লাস্টে ফাটাও",
+     "প্রতিটি লাইনে এনার্জি জমে। পুরো ভরলে এক চালে বোর্ডের একটা এলাকা সাফ করে দাও।"
+    ],
+    [
+     "৩৮টি ব্লক স্টাইল",
+     "ক্যান্ডি থেকে ছায়াপথ, ড্রাগন থেকে রোবট: ছবি আঁকা ব্লক স্টাইল আর রঙের থিমে গেম সাজাও।"
+    ],
+    [
+     "প্রতিদিন নতুন পাজল",
+     "দৈনিক পাজলে সবাই একই বোর্ডে খেলে। সঙ্গে টাইম অ্যাটাক আর ৬×৬ থেকে ২০×২০ পর্যন্ত ৮টি বোর্ড।"
+    ],
+    [
+     "বিশ্ব লিডারবোর্ড",
+     "একটি ডাকনাম বেছে নাও আর সেরা স্কোর দিয়ে সারা বিশ্বের খেলোয়াড়দের সঙ্গে লড়ো। অ্যাকাউন্ট লাগবে না।"
+    ],
+    [
+     "অর্জন আর পুরস্কার",
+     "মিশন শেষ করো, ব্যাজ জমাও, প্রতিদিন ক্রিস্টাল জেতো আর নতুন স্টাইল আনলক করো।"
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido কি ফ্রি?",
+     "হ্যাঁ, Blokido পুরোপুরি ফ্রি। চাইলে পুরস্কারের বিজ্ঞাপন দেখে বাড়তি ক্রিস্টাল পেতে পারো।"
+    ],
+    [
+     "ইন্টারনেট ছাড়া খেলা যায়?",
+     "হ্যাঁ। পুরো গেম অফলাইনে চলে, শুধু বিশ্ব লিডারবোর্ডের জন্য ইন্টারনেট লাগে।"
+    ],
+    [
+     "কোন কোন ভাষা আছে?",
+     "Blokido ১৬টি ভাষায় পাওয়া যায়: {langs}।"
+    ]
+   ]
+  },
+  "pt": {
+   "title": "Blokido – Jogo de quebra-cabeça de blocos | Encaixe, estoure e vença!",
+   "desc": "Blokido é um quebra-cabeça de blocos grátis: encaixe blocos, estoure linhas e faça combos. 38 estilos de blocos, desafio diário, ranking mundial e 16 idiomas.",
+   "sub": "Blocos, linhas e combos",
+   "short": "Encaixe blocos, estoure linhas e faça combos! Desafio diário e 38 estilos.",
+   "hero": "Encaixe blocos no tabuleiro, estoure linhas e colunas cheias e faça combos para bater seu recorde. Relaxante, colorido e difícil de largar.",
+   "soon": "Em breve",
+   "soonTitle": "Em breve nas lojas",
+   "why": "Por que Blokido?",
+   "faqTitle": "Perguntas frequentes",
+   "f": [
+    [
+     "Fácil de aprender, difícil de parar",
+     "Arraste blocos para o tabuleiro e estoure linhas e colunas cheias. Limpe em sequência e o multiplicador de combo cresce."
+    ],
+    [
+     "Exploda com o Pulse Blast",
+     "Cada linha carrega sua energia. Quando enche, você apaga uma área inteira do tabuleiro de uma vez."
+    ],
+    [
+     "38 estilos de blocos",
+     "De doces a galáxias, de dragões a robôs: deixe o jogo do seu jeito com estilos de blocos ilustrados e temas de cor."
+    ],
+    [
+     "Um desafio novo por dia",
+     "No desafio diário todo mundo joga o mesmo tabuleiro. E ainda tem modo contra o tempo e 8 tamanhos de 6×6 a 20×20."
+    ],
+    [
+     "Ranking mundial",
+     "Escolha um apelido e dispute com jogadores do mundo todo. Não precisa criar conta."
+    ],
+    [
+     "Conquistas e prêmios",
+     "Complete missões, colecione medalhas, ganhe cristais todo dia e desbloqueie novos estilos."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido é grátis?",
+     "Sim, Blokido é totalmente grátis. Se quiser, você pode ver anúncios premiados para ganhar cristais extras."
+    ],
+    [
+     "Dá para jogar offline?",
+     "Sim. O jogo inteiro funciona offline; só o ranking mundial precisa de internet."
+    ],
+    [
+     "Quais idiomas são suportados?",
+     "Blokido está disponível em 16 idiomas: {langs}."
+    ]
+   ]
+  },
+  "id": {
+   "title": "Blokido – Game Puzzle Balok | Taruh, ledakkan, menang!",
+   "desc": "Blokido adalah game puzzle balok gratis: taruh balok, ledakkan baris, dan rangkai kombo. 38 gaya balok, puzzle harian, papan peringkat dunia, dan 16 bahasa.",
+   "sub": "Puzzle balok penuh kombo",
+   "short": "Taruh balok, ledakkan baris, rangkai kombo! Puzzle harian, 38 gaya, peringkat.",
+   "hero": "Taruh balok di papan, ledakkan baris dan kolom yang penuh, dan rangkai kombo untuk memecahkan rekormu. Santai, penuh warna, dan bikin ketagihan.",
+   "soon": "Segera hadir",
+   "soonTitle": "Segera hadir di toko aplikasi",
+   "why": "Kenapa Blokido?",
+   "faqTitle": "Pertanyaan umum",
+   "f": [
+    [
+     "Mudah dipelajari, susah berhenti",
+     "Seret balok ke papan dan ledakkan baris serta kolom yang penuh. Bersihkan beruntun dan pengali kombo terus naik."
+    ],
+    [
+     "Ledakkan dengan Pulse Blast",
+     "Setiap baris mengisi energimu. Saat penuh, hapus satu area papan sekaligus dalam satu langkah."
+    ],
+    [
+     "38 gaya balok",
+     "Dari permen sampai galaksi, dari naga sampai robot: hias game dengan gaya balok bergambar dan tema warna."
+    ],
+    [
+     "Puzzle baru tiap hari",
+     "Di puzzle harian semua orang main di papan yang sama. Ada juga mode lawan waktu dan 8 ukuran papan dari 6×6 sampai 20×20."
+    ],
+    [
+     "Papan peringkat dunia",
+     "Pilih nama panggilan dan bersaing dengan pemain di seluruh dunia. Tanpa perlu akun."
+    ],
+    [
+     "Pencapaian & hadiah",
+     "Selesaikan misi, kumpulkan lencana, dapatkan kristal tiap hari, dan buka gaya baru."
+    ]
+   ],
+   "faq": [
+    [
+     "Apakah Blokido gratis?",
+     "Ya, Blokido sepenuhnya gratis. Kalau mau, kamu bisa menonton iklan berhadiah untuk kristal tambahan."
+    ],
+    [
+     "Bisa main offline?",
+     "Bisa. Seluruh game berjalan offline; hanya papan peringkat dunia yang butuh internet."
+    ],
+    [
+     "Bahasa apa saja yang tersedia?",
+     "Blokido tersedia dalam 16 bahasa: {langs}."
+    ]
+   ]
+  },
+  "ru": {
+   "title": "Blokido – головоломка с блоками | Ставь, взрывай, побеждай!",
+   "desc": "Blokido — бесплатная головоломка с блоками: ставь блоки, взрывай линии и собирай комбо. 38 стилей блоков, ежедневная задача, мировой рейтинг и 16 языков.",
+   "sub": "Блоки, линии и комбо",
+   "short": "Ставь блоки, взрывай линии, собирай комбо! Задача дня, 38 стилей, рейтинг.",
+   "hero": "Ставь блоки на поле, взрывай заполненные ряды и столбцы и собирай комбо, чтобы побить свой рекорд. Расслабляет, радует цветом и затягивает.",
+   "soon": "Скоро",
+   "soonTitle": "Скоро в магазинах приложений",
+   "why": "Почему Blokido?",
+   "faqTitle": "Частые вопросы",
+   "f": [
+    [
+     "Легко начать, трудно остановиться",
+     "Перетаскивай блоки на поле и взрывай полные ряды и столбцы. Очищай подряд — и множитель комбо растёт."
+    ],
+    [
+     "Взрывай с Pulse Blast",
+     "Каждая линия заряжает энергию. Когда шкала полна, одним ходом стираешь целую область поля."
+    ],
+    [
+     "38 стилей блоков",
+     "От сладостей до галактик, от драконов до роботов: украшай игру рисованными стилями блоков и цветовыми темами."
+    ],
+    [
+     "Новая задача каждый день",
+     "В ежедневной задаче все играют на одном поле. А ещё режим на время и 8 размеров поля от 6×6 до 20×20."
+    ],
+    [
+     "Мировой рейтинг",
+     "Выбери ник и соревнуйся с игроками со всего мира. Регистрация не нужна."
+    ],
+    [
+     "Достижения и награды",
+     "Выполняй задания, собирай значки, получай кристаллы каждый день и открывай новые стили."
+    ]
+   ],
+   "faq": [
+    [
+     "Blokido бесплатна?",
+     "Да, Blokido полностью бесплатна. По желанию можно смотреть рекламу с наградой за дополнительные кристаллы."
+    ],
+    [
+     "Можно играть без интернета?",
+     "Да. Вся игра работает офлайн, интернет нужен только для мирового рейтинга."
+    ],
+    [
+     "Какие языки поддерживаются?",
+     "Blokido доступна на 16 языках: {langs}."
+    ]
+   ]
+  }
+ },
+ "STR": {
+  "tr": {
+   "tagline": "Yerleştir, patlat, kazan!",
+   "play": "OYNA",
+   "privacy": "Gizlilik Politikası",
+   "terms": "Kullanım Koşulları",
+   "privacyText": "<h3>Özet</h3><p>Blokido hesap istemez; adını, e-postanı, telefon numaranı ya da konumunu sormaz. Rekorların, ayarların ve kristallerin cihazında saklanır.</p><h3>Cihazında saklananlar</h3><p>Ayarlar, rekorlar, görev ilerlemesi, başarımlar, kristaller, açtığın temalar ve yarım kalan oyun telefonunun içinde tutulur. Uygulamayı silersen hepsi silinir.</p><h3>Skor tablosu</h3><p>Skor tablosunu kullanırsan, cihazına özel rastgele bir kimlik, seçtiğin takma ad ve skorların Google Firebase sunucularında saklanır. Gerçek adın ya da iletişim bilgilerin gönderilmez.</p><h3>Reklamlar</h3><p>Oyunda isteğe bağlı ödüllü reklamlar vardır ve Google AdMob tarafından gösterilir. AdMob reklam göstermek ve ölçmek için reklam kimliği, IP adresi ve cihaz bilgisi gibi verileri işleyebilir: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Reklam kimliğini telefonunun ayarlarından sıfırlayabilir veya kişiselleştirilmiş reklamları kapatabilirsin.</p><h3>Çocuklar</h3><p>Blokido bilerek çocuklardan kişisel veri toplamaz.</p><h3>Değişiklikler ve iletişim</h3><p>Bu politika değişirse güncel hali oyunda yayımlanır. Sorular için: [iletişim e-postası]</p><p class=\"upd\">Son güncelleme: 8 Kasım 2026</p>",
+   "termsText": "<h3>Kullanım</h3><p>Blokido'yu kişisel ve ticari olmayan amaçlarla ücretsiz oynayabilirsin. Oyunu kopyalamak, değiştirip dağıtmak veya hile yazılımıyla oynamak yasaktır.</p><h3>Kristaller ve sanal içerik</h3><p>Kristaller, temalar ve blok stilleri yalnızca oyun içinde kullanılan sanal içeriktir; gerçek parayla değeri yoktur, paraya çevrilemez ve devredilemez. Cihaz değişir veya uygulama silinirse kaybolabilir.</p><h3>Skor tablosu</h3><p>Takma adın uygunsuz, hakaret içeren veya başkasını taklit eden bir ad olamaz. Hileli skorlar ve uygunsuz adlar uyarı yapılmadan silinebilir.</p><h3>Sorumluluk</h3><p>Oyun “olduğu gibi” sunulur. Kesintisiz veya hatasız çalışacağı garanti edilmez. Özellikler önceden haber verilmeden değiştirilebilir.</p><h3>İletişim</h3><p>[iletişim e-postası]</p><p class=\"upd\">Son güncelleme: 8 Kasım 2026</p>",
+   "lang": "Dil",
+   "how": "Nasıl oynanır",
+   "tut1t": "Bir blok seç",
+   "tut1p": "Alttaki tepsiden bir bloğa dokun ya da parmağınla sürükle. Seçili blok hafifçe büyür ve parlar.",
+   "tut2t": "Boş alana yerleştir",
+   "tut2p": "Kesikli beyaz çerçeve bloğun sığdığını, kırmızı ✕ sığmadığını gösterir.",
+   "tut3t": "Çizgiyi tamamla",
+   "tut3p": "Dolu satır ve sütunlar temizlenir, Pulse Blast enerjisi dolar. Enerji %100 olunca bir hücre seç, çevresi patlar.",
+   "themes": "Temalar",
+   "modes": "Modlar",
+   "thStyle": "Blok stili",
+   "achTitle": "Başarımlar",
+   "combo": "COMBO",
+   "score": "SKOR",
+   "soon": "Yakında",
+   "lbTitle": "Sıralama"
+  },
+  "ku": {
+   "tagline": "Bi cih bike, biteqîne, bi ser keve!",
+   "play": "BILÎZE",
+   "privacy": "Polîtîkaya Nepeniyê",
+   "terms": "Şertên Bikaranînê",
+   "lang": "Ziman",
+   "how": "Çawa tê lîstin",
+   "tut1t": "Blokekê hilbijêre",
+   "tut1p": "Li jêr li ser blokekê bitikîne an jî bi tiliya xwe bikişîne. Bloka hilbijartî hinekî mezin dibe û dibiriqe.",
+   "tut2t": "Deyne cihê vala",
+   "tut2p": "Çarçoveya spî ya xêzkirî nîşan dide ku blok cih dibe; ✕ ya sor nîşan dide ku cih nabe.",
+   "tut3t": "Rêzekê temam bike",
+   "tut3p": "Rêz û stûnên tije winda dibin û Pulse Blast tije dikin. Dema bibe %100, xaneyekê hilbijêre û derdora wê biteqîne.",
+   "themes": "Tema",
+   "modes": "Mod",
+   "thStyle": "Şêwaza blokan",
+   "achTitle": "Serkeftin",
+   "combo": "KOMBO",
+   "score": "SKOR",
+   "soon": "Di demeke nêzîk de",
+   "lbTitle": "Rêzbendî"
+  },
+  "en": {
+   "tagline": "Place it. Pop it. Win it!",
+   "play": "PLAY",
+   "privacy": "Privacy Policy",
+   "terms": "Terms of Use",
+   "privacyText": "<h3>Summary</h3><p>Blokido needs no account and never asks for your name, email, phone number or location. Your records, settings and crystals are stored on your device.</p><h3>Stored on your device</h3><p>Settings, records, mission progress, achievements, crystals, unlocked themes and an unfinished game are kept on your phone. Deleting the app deletes them.</p><h3>Leaderboard</h3><p>If you use the leaderboard, a random device-specific ID, the nickname you choose and your scores are stored on Google Firebase servers. Your real name and contact details are never sent.</p><h3>Ads</h3><p>The game has optional rewarded ads served by Google AdMob. To show and measure ads, AdMob may process data such as your advertising ID, IP address and device information: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. You can reset your advertising ID or turn off personalized ads in your phone's settings.</p><h3>Children</h3><p>Blokido does not knowingly collect personal data from children.</p><h3>Changes and contact</h3><p>If this policy changes, the current version is published in the game. Questions: [contact email]</p><p class=\"upd\">Last updated: November 8, 2026</p>",
+   "termsText": "<h3>Use</h3><p>You may play Blokido for free for personal, non-commercial purposes. Copying the game, redistributing modified versions or playing with cheat software is not allowed.</p><h3>Crystals and virtual items</h3><p>Crystals, themes and block styles are virtual items for use inside the game only. They have no real-money value and cannot be exchanged or transferred. They may be lost if you change devices or delete the app.</p><h3>Leaderboard</h3><p>Nicknames must not be offensive or impersonate others. Cheated scores and inappropriate names may be removed without notice.</p><h3>Liability</h3><p>The game is provided “as is”, without any guarantee that it will run without interruption or errors. Features may change without notice.</p><h3>Contact</h3><p>[contact email]</p><p class=\"upd\">Last updated: November 8, 2026</p>",
+   "lang": "Language",
+   "how": "How to play",
+   "tut1t": "Pick a block",
+   "tut1p": "Tap a block in the tray or drag it with your finger. The selected block grows a little and glows.",
+   "tut2t": "Drop it in an empty spot",
+   "tut2p": "A dashed white outline means it fits; a red ✕ means it doesn't.",
+   "tut3t": "Complete a line",
+   "tut3p": "Full rows and columns clear and charge your Pulse Blast. At 100%, pick a cell and blast the area around it.",
+   "themes": "Themes",
+   "modes": "Modes",
+   "thStyle": "Block style",
+   "achTitle": "Achievements",
+   "combo": "COMBO",
+   "score": "SCORE",
+   "soon": "Coming soon",
+   "lbTitle": "Leaderboard"
+  },
+  "de": {
+   "tagline": "Setzen, sprengen, siegen!",
+   "play": "SPIELEN",
+   "privacy": "Datenschutz",
+   "terms": "Nutzungsbedingungen",
+   "lang": "Sprache",
+   "how": "So geht's",
+   "tut1t": "Wähle einen Block",
+   "tut1p": "Tippe unten auf einen Block oder zieh ihn mit dem Finger. Der gewählte Block wird etwas größer und leuchtet.",
+   "tut2t": "Setz ihn auf ein freies Feld",
+   "tut2p": "Ein gestrichelter weißer Rahmen heißt: passt. Ein rotes ✕ heißt: passt nicht.",
+   "tut3t": "Mach eine Reihe voll",
+   "tut3p": "Volle Reihen und Spalten verschwinden und laden deinen Pulse Blast auf. Bei 100 % wählst du ein Feld und sprengst alles drumherum.",
+   "themes": "Designs",
+   "modes": "Modi",
+   "thStyle": "Blockstil",
+   "achTitle": "Erfolge",
+   "combo": "KOMBO",
+   "score": "PUNKTE",
+   "soon": "Bald verfügbar",
+   "lbTitle": "Rangliste"
+  },
+  "zh": {
+   "tagline": "摆一摆，消一消，赢到底！",
+   "play": "开始游戏",
+   "privacy": "隐私政策",
+   "terms": "使用条款",
+   "lang": "语言",
+   "how": "玩法",
+   "tut1t": "选择方块",
+   "tut1p": "点击下方托盘中的方块，或用手指拖动。选中的方块会稍微变大并发光。",
+   "tut2t": "放到空位",
+   "tut2p": "白色虚线框表示能放下，红色 ✕ 表示放不下。",
+   "tut3t": "填满一行",
+   "tut3p": "填满的行和列会被消除，并为 Pulse Blast 充能。能量满 100% 时，选一个格子，引爆周围区域。",
+   "themes": "主题",
+   "modes": "模式",
+   "thStyle": "方块样式",
+   "achTitle": "成就",
+   "combo": "连击",
+   "score": "得分",
+   "soon": "即将推出",
+   "lbTitle": "排行榜"
+  },
+  "hi": {
+   "tagline": "रखो, उड़ाओ, जीतो!",
+   "play": "खेलो",
+   "privacy": "गोपनीयता नीति",
+   "terms": "उपयोग की शर्तें",
+   "lang": "भाषा",
+   "how": "कैसे खेलें",
+   "tut1t": "एक ब्लॉक चुनो",
+   "tut1p": "नीचे की ट्रे में किसी ब्लॉक पर टैप करो या उसे उँगली से खींचो। चुना हुआ ब्लॉक थोड़ा बड़ा होकर चमकता है।",
+   "tut2t": "खाली जगह पर रखो",
+   "tut2p": "सफ़ेद डैश वाली रेखा का मतलब है ब्लॉक फ़िट होगा, लाल ✕ का मतलब है नहीं होगा।",
+   "tut3t": "लाइन पूरी करो",
+   "tut3p": "भरी हुई पंक्तियाँ और कॉलम साफ़ हो जाते हैं और Pulse Blast भरता है। 100% होने पर एक खाना चुनो, उसके आसपास धमाका होगा।",
+   "themes": "थीम",
+   "modes": "मोड",
+   "thStyle": "ब्लॉक स्टाइल",
+   "achTitle": "उपलब्धियाँ",
+   "combo": "कॉम्बो",
+   "score": "स्कोर",
+   "soon": "जल्द आ रहा है",
+   "lbTitle": "लीडरबोर्ड"
+  },
+  "ta": {
+   "tagline": "வை, வெடி, வெல்!",
+   "play": "விளையாடு",
+   "privacy": "தனியுரிமைக் கொள்கை",
+   "terms": "பயன்பாட்டு விதிமுறைகள்",
+   "lang": "மொழி",
+   "how": "விளையாடுவது எப்படி",
+   "tut1t": "ஒரு பிளாக்கைத் தேர்வுசெய்க",
+   "tut1p": "கீழே உள்ள பிளாக்கைத் தட்டவும் அல்லது விரலால் இழுக்கவும். தேர்ந்தெடுத்த பிளாக் சற்று பெரிதாகி ஒளிரும்.",
+   "tut2t": "காலியான இடத்தில் வை",
+   "tut2p": "வெள்ளை கோடிட்ட சட்டம் இருந்தால் பொருந்தும்; சிவப்பு ✕ இருந்தால் பொருந்தாது.",
+   "tut3t": "ஒரு வரியை முடி",
+   "tut3p": "நிரம்பிய வரிசைகளும் நெடுவரிசைகளும் அழிந்து Pulse Blast-ஐ நிரப்பும். 100% ஆனதும் ஒரு கட்டத்தைத் தேர்வுசெய்து சுற்றியுள்ள பகுதியை வெடிக்கச் செய்யுங்கள்.",
+   "themes": "தீம்கள்",
+   "modes": "முறைகள்",
+   "thStyle": "பிளாக் ஸ்டைல்",
+   "achTitle": "சாதனைகள்",
+   "combo": "காம்போ",
+   "score": "மதிப்பெண்",
+   "soon": "விரைவில்",
+   "lbTitle": "தரவரிசை"
+  },
+  "es": {
+   "tagline": "¡Coloca, explota y gana!",
+   "play": "JUGAR",
+   "privacy": "Política de privacidad",
+   "terms": "Condiciones de uso",
+   "lang": "Idioma",
+   "how": "Cómo jugar",
+   "tut1t": "Elige un bloque",
+   "tut1p": "Toca un bloque de la bandeja o arrástralo con el dedo. El bloque elegido crece un poco y brilla.",
+   "tut2t": "Colócalo en un hueco",
+   "tut2p": "El contorno blanco discontinuo indica que cabe; la ✕ roja, que no.",
+   "tut3t": "Completa una línea",
+   "tut3p": "Las filas y columnas llenas desaparecen y cargan tu Pulse Blast. Al 100 %, elige una casilla y haz explotar la zona.",
+   "themes": "Temas",
+   "modes": "Modos",
+   "thStyle": "Estilo de bloque",
+   "achTitle": "Logros",
+   "combo": "COMBO",
+   "score": "PUNTOS",
+   "soon": "Próximamente",
+   "lbTitle": "Clasificación"
+  },
+  "ar": {
+   "tagline": "ضع، فجّر، واربح!",
+   "play": "العب",
+   "privacy": "سياسة الخصوصية",
+   "terms": "شروط الاستخدام",
+   "lang": "اللغة",
+   "how": "طريقة اللعب",
+   "tut1t": "اختر مكعبًا",
+   "tut1p": "المس مكعبًا في الأسفل أو اسحبه بإصبعك. يكبر المكعب المختار قليلًا ويتوهج.",
+   "tut2t": "ضعه في مكان فارغ",
+   "tut2p": "الإطار الأبيض المتقطع يعني أنه يناسب المكان، وعلامة ✕ الحمراء تعني أنه لا يناسبه.",
+   "tut3t": "أكمل صفًا",
+   "tut3p": "تختفي الصفوف والأعمدة الممتلئة وتشحن Pulse Blast. عند 100% اختر خانة لتفجير ما حولها.",
+   "themes": "السمات",
+   "modes": "الأوضاع",
+   "thStyle": "شكل المكعبات",
+   "achTitle": "الإنجازات",
+   "combo": "كومبو",
+   "score": "النتيجة",
+   "soon": "قريبًا",
+   "lbTitle": "لوحة الصدارة"
+  },
+  "fa": {
+   "tagline": "بچین، بترکان، ببر!",
+   "play": "بازی کن",
+   "privacy": "حریم خصوصی",
+   "terms": "شرایط استفاده",
+   "lang": "زبان",
+   "how": "راهنمای بازی",
+   "tut1t": "یک بلوک انتخاب کن",
+   "tut1p": "روی یکی از بلوک‌های پایین بزن یا با انگشت بکشش. بلوک انتخاب‌شده کمی بزرگ می‌شود و می‌درخشد.",
+   "tut2t": "در جای خالی بگذار",
+   "tut2p": "کادر سفید خط‌چین یعنی جا می‌شود؛ ✕ قرمز یعنی جا نمی‌شود.",
+   "tut3t": "یک ردیف را کامل کن",
+   "tut3p": "ردیف‌ها و ستون‌های پر پاک می‌شوند و Pulse Blast را پر می‌کنند. در 100% یک خانه را انتخاب کن تا اطرافش منفجر شود.",
+   "themes": "پوسته‌ها",
+   "modes": "حالت‌ها",
+   "thStyle": "سبک بلوک‌ها",
+   "achTitle": "دستاوردها",
+   "combo": "کامبو",
+   "score": "امتیاز",
+   "soon": "به‌زودی",
+   "lbTitle": "جدول رده‌بندی"
+  },
+  "fr": {
+   "tagline": "Placez, explosez, gagnez !",
+   "play": "JOUER",
+   "privacy": "Politique de confidentialité",
+   "terms": "Conditions d'utilisation",
+   "lang": "Langue",
+   "how": "Comment jouer",
+   "tut1t": "Choisissez un bloc",
+   "tut1p": "Touchez un bloc en bas ou faites-le glisser du doigt. Le bloc choisi grossit un peu et brille.",
+   "tut2t": "Posez-le dans un espace libre",
+   "tut2p": "Un contour blanc en pointillé : ça rentre. Une ✕ rouge : ça ne rentre pas.",
+   "tut3t": "Complétez une ligne",
+   "tut3p": "Les lignes et colonnes pleines disparaissent et chargent votre Pulse Blast. À 100 %, choisissez une case pour faire exploser la zone autour.",
+   "themes": "Thèmes",
+   "modes": "Modes",
+   "thStyle": "Style des blocs",
+   "achTitle": "Succès",
+   "combo": "COMBO",
+   "score": "SCORE",
+   "soon": "Bientôt",
+   "lbTitle": "Classement"
+  },
+  "it": {
+   "tagline": "Piazza, fai esplodere, vinci!",
+   "play": "GIOCA",
+   "privacy": "Informativa sulla privacy",
+   "terms": "Termini d'uso",
+   "lang": "Lingua",
+   "how": "Come si gioca",
+   "tut1t": "Scegli un blocco",
+   "tut1p": "Tocca un blocco in basso o trascinalo con il dito. Il blocco scelto si ingrandisce un po' e si illumina.",
+   "tut2t": "Mettilo in uno spazio libero",
+   "tut2p": "Il contorno bianco tratteggiato vuol dire che ci sta; la ✕ rossa vuol dire che non ci sta.",
+   "tut3t": "Completa una linea",
+   "tut3p": "Righe e colonne piene spariscono e caricano il tuo Pulse Blast. Al 100%, scegli una casella e fai esplodere tutto intorno.",
+   "themes": "Temi",
+   "modes": "Modalità",
+   "thStyle": "Stile dei blocchi",
+   "achTitle": "Obiettivi",
+   "combo": "COMBO",
+   "score": "PUNTI",
+   "soon": "In arrivo",
+   "lbTitle": "Classifica"
+  },
+  "bn": {
+   "tagline": "বসাও, ফাটাও, জেতো!",
+   "play": "খেলো",
+   "privacy": "গোপনীয়তা নীতি",
+   "terms": "ব্যবহারের শর্তাবলি",
+   "lang": "ভাষা",
+   "how": "কীভাবে খেলবে",
+   "tut1t": "একটি ব্লক বেছে নাও",
+   "tut1p": "নিচের ট্রে থেকে একটি ব্লকে ট্যাপ করো বা আঙুল দিয়ে টেনে আনো। বাছাই করা ব্লক একটু বড় হয়ে জ্বলে ওঠে।",
+   "tut2t": "ফাঁকা জায়গায় বসাও",
+   "tut2p": "সাদা ড্যাশ দেওয়া রেখা মানে ব্লক আঁটবে, লাল ✕ মানে আঁটবে না।",
+   "tut3t": "লাইন পূরণ করো",
+   "tut3p": "ভরা সারি ও কলাম মুছে যায় আর Pulse Blast ভরে ওঠে। 100% হলে একটি ঘর বেছে নাও, তার চারপাশে বিস্ফোরণ হবে।",
+   "themes": "থিম",
+   "modes": "মোড",
+   "thStyle": "ব্লকের স্টাইল",
+   "achTitle": "অর্জন",
+   "combo": "কম্বো",
+   "score": "স্কোর",
+   "soon": "শিগগিরই আসছে",
+   "lbTitle": "লিডারবোর্ড"
+  },
+  "pt": {
+   "tagline": "Encaixe, estoure e vença!",
+   "play": "JOGAR",
+   "privacy": "Política de privacidade",
+   "terms": "Termos de uso",
+   "lang": "Idioma",
+   "how": "Como jogar",
+   "tut1t": "Escolha um bloco",
+   "tut1p": "Toque num bloco da bandeja ou arraste-o com o dedo. O bloco escolhido cresce um pouco e brilha.",
+   "tut2t": "Encaixe num espaço vazio",
+   "tut2p": "O contorno branco tracejado mostra que cabe; o ✕ vermelho mostra que não cabe.",
+   "tut3t": "Complete uma linha",
+   "tut3p": "Linhas e colunas completas somem e carregam o Pulse Blast. Em 100%, escolha uma casa e exploda a área ao redor.",
+   "themes": "Temas",
+   "modes": "Modos",
+   "thStyle": "Estilo dos blocos",
+   "achTitle": "Conquistas",
+   "combo": "COMBO",
+   "score": "PONTOS",
+   "soon": "Em breve",
+   "lbTitle": "Classificação"
+  },
+  "id": {
+   "tagline": "Taruh, ledakkan, menang!",
+   "play": "MAIN",
+   "privacy": "Kebijakan Privasi",
+   "terms": "Ketentuan Penggunaan",
+   "lang": "Bahasa",
+   "how": "Cara main",
+   "tut1t": "Pilih balok",
+   "tut1p": "Ketuk balok di bawah atau seret dengan jarimu. Balok yang dipilih sedikit membesar dan bersinar.",
+   "tut2t": "Taruh di tempat kosong",
+   "tut2p": "Garis putih putus-putus berarti muat; ✕ merah berarti tidak muat.",
+   "tut3t": "Lengkapi garis",
+   "tut3p": "Baris dan kolom yang penuh akan hilang dan mengisi Pulse Blast. Saat 100%, pilih kotak dan ledakkan area di sekitarnya.",
+   "themes": "Tema",
+   "modes": "Mode",
+   "thStyle": "Gaya balok",
+   "achTitle": "Pencapaian",
+   "combo": "KOMBO",
+   "score": "SKOR",
+   "soon": "Segera hadir",
+   "lbTitle": "Papan Peringkat"
+  },
+  "ru": {
+   "tagline": "Ставь, взрывай, побеждай!",
+   "play": "ИГРАТЬ",
+   "privacy": "Политика конфиденциальности",
+   "terms": "Условия использования",
+   "lang": "Язык",
+   "how": "Как играть",
+   "tut1t": "Выбери блок",
+   "tut1p": "Коснись блока внизу или перетащи его пальцем. Выбранный блок немного увеличится и засветится.",
+   "tut2t": "Поставь на свободное место",
+   "tut2p": "Белая пунктирная рамка — блок помещается, красный ✕ — не помещается.",
+   "tut3t": "Собери линию",
+   "tut3p": "Заполненные ряды и столбцы исчезают и заряжают Pulse Blast. На 100% выбери клетку — и всё вокруг неё взорвётся.",
+   "themes": "Темы",
+   "modes": "Режимы",
+   "thStyle": "Стиль блоков",
+   "achTitle": "Достижения",
+   "combo": "КОМБО",
+   "score": "ОЧКИ",
+   "soon": "Скоро",
+   "lbTitle": "Рейтинг"
+  }
+ }
+}

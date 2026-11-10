@@ -282,3 +282,4 @@ footer .mail{display:inline-flex;align-items:center;gap:8px}
 .langsel{margin-inline-start:auto}
 .nav + .langsel{margin-inline-start:0}
 .combo-badge b,#demoCombo,.stat b{direction:ltr;unicode-bidi:isolate}
+[dir="rtl"] .legal .btn-ghost .i{transform:scaleX(-1)}

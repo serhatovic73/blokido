@@ -3,11 +3,14 @@
 const fs = require('fs'), path = require('path');
 const ROOT = path.join(__dirname, '..');
 const { LANGS, COPY, STR } = require('./data.json');
+// The game ships policy texts in tr/en only; legal.json adds the other 14 languages
+const LEGAL = require('./legal.json');
+for (const [l, t] of Object.entries(LEGAL)) Object.assign(STR[l], t);
 
 const BASE = 'https://serhatovic73.github.io/blokido/';
 const EMAIL = 'serhatgicer49@gmail.com';
 const RTL = new Set(['ar', 'fa']);
-const LEGAL_LANGS = new Set(['en', 'tr']); // the game ships its policy texts in these two
+const LEGAL_LANGS = new Set(LANGS.map(x => x[0]).filter(l => STR[l].privacyText && STR[l].termsText));
 const COLORS = ['#4C7CFF', '#00D4FF', '#FFD166', '#FF6B81', '#7EF29A', '#A78BFA', '#FF9F43'];
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -247,6 +250,7 @@ ${footer(l)}`;
 
 function legal(l, kind) {
   const s = STR[l], other = l === 'en' ? 'tr' : 'en';
+  const otherName = LANGS.find(x => x[0] === other)[1];
   const title = `${s[kind]} – Blokido`;
   const body = withMail(s[kind + 'Text']);
   const desc = body.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().slice(0, 155);
@@ -262,7 +266,7 @@ ${topbar(l, kind)}
     <a class="btn btn-ghost btn-sm" href="${up(l)}${dir(l)}">${icon.back}Blokido</a>
     <h1>${esc(s[kind])}</h1>
     <div class="switch">
-      <a class="btn btn-secondary btn-sm" href="${up(l)}${dir(other)}${kind}.html">${other === 'tr' ? 'Türkçe' : 'English'}</a>
+      <a class="btn btn-secondary btn-sm" href="${up(l)}${dir(other)}${kind}.html">${esc(otherName)}</a>
       <a class="btn btn-ghost btn-sm" href="${sibling}.html">${esc(s[sibling])}</a>
     </div>
     <article class="card doc">
